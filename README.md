@@ -4,11 +4,11 @@ Edit (refactor) the Module 2 solution code to loop through all the data one time
 
 ## Results
 ![Alt text](https://raw.githubusercontent.com/vdvgit/stock-analysis/main/resources/VBA_Challenge_2017.png) ![Alt text](https://raw.githubusercontent.com/vdvgit/stock-analysis/main/resources/VBA_Challenge_2018.png)
-Execution times of the refactored code is shown above for 2017 and 2018. 
+- Execution times of the refactored code is shown above for 2017 and 2018. 
 
-2017/2018 execution time of the refactored code was slightly better than my original code (0.3 - 0.4 second difference). 
+- 2017/2018 execution time of the refactored code was slightly better than my original code (0.3 - 0.4 second difference). 
 
-I was able to do this by looping the entire sheet (vs specific cells like in the original code). 
+- I was able to do this by looping the entire sheet (vs specific cells like in the original code). 
 ![Alt text](https://raw.githubusercontent.com/vdvgit/stock-analysis/main/resources/loop_example.png)
 
 ## Summary
