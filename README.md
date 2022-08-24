@@ -13,8 +13,8 @@ Edit (refactor) the Module 2 solution code to loop through all the data one time
 
 ## Summary
 1. What are the advantages or disadvantages of refactoring code?
-  - Advantage: completes quicker, cleaner/easier to read/debug. 
-  - Disadvantage: takes longer to write. 
+    - Advantage: completes quicker, cleaner/easier to read/debug. 
+    - Disadvantage: takes longer to write. 
 
 2. How do these pros and cons apply to refactoring the original VBA script?
-  - This is a simple example, so the time to re-write the code and subsequent time savings during execution are negligible. 
+    - This is a simple example, so the time to re-write the code and subsequent time savings during execution are negligible. 
